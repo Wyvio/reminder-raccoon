@@ -3,7 +3,7 @@ document.addEventListener("click", function(e) {
   //   return;
   // }
 
-  document.querySelector(".change-text").textContent = "CHANGED";
+  //document.querySelector(".change-text").textContent = "CHANGED";
 
   // browser.tabs.create({
   //   url: "https://google.com"
